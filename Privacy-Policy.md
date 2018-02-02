@@ -60,6 +60,7 @@ We use information about you as mentioned above and as follows:
 *   To provide our Services–for example, to set up and maintain your account, test your applications, or charge you for any of our paid Services;
 *   To further develop our Services–for example by adding new features that we think our users will enjoy or will help them to test their apps more efficiently;
 *   To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
+*   To train our AI/Machine Learning systems to better adapt test scripts across platforms and app versions, and for automatic issue detection;
 *   To monitor and protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of MoQuality and others;
 *   To communicate with you about offers and promotions offered by MoQuality and others we think will be of interest to you, solicit your feedback, or keep you up to date on MoQuality and our products; and
 *   To personalize your experience using our Services, provide content recommendations and serve relevant advertisements.
