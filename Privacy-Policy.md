@@ -110,4 +110,4 @@ Although most changes are likely to be minor, MoQuality may change its Privacy P
 
 
 **Change log:**
-* Feb 1, 2018: Created first version of the privacy policy
+* Feb 1, 2018: Published privacy policy
