@@ -4,7 +4,7 @@
 
 We (the [folks at MoQuality](http://moquality.com/about/)) run an AI based app testing service and would **love** for you to use it. MoQuality.com allows anyone to upload/link their apps to our service and build test cases for free, but we charge for executing the tests on real devices to find issues. Our service is designed to give you as much control and ownership over how your application is tested. However, remember that any abuse of the service, and using it to cause harm to other services (e.g., DOS attacks, or scraping information from other places) is strictly prohibited.
 
-(These terms are adapted from Automattic's open-source terms, available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/4.0/) license, which means you're more than welcome to repurpose it for your own use. Just make sure to replace references to us with ones to you.)
+(These terms are adapted from Automattic's [open-source legalese](https://github.com/Automattic/legalmattic), available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/4.0/) license, which means you're more than welcome to repurpose it for your own use. Just make sure to replace references to us with ones to you.)
 
 ### Terms of Service:
 
